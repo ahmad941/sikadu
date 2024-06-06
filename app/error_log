@@ -1,0 +1,737 @@
+[06-Jun-2024 11:02:08 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Pengguna.php:58
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#1 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 58
+[06-Jun-2024 11:02:09 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Penyuluhan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_penyuluhan/index.php(44): Penyuluhan->getListMasterPenyuluhan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(72): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Penyuluhan.php on line 17
+[06-Jun-2024 11:02:10 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Tindakan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_tindakan/index.php(46): Tindakan->getListMasterTindakan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(85): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Tindakan.php on line 17
+[06-Jun-2024 11:02:11 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Penyuluhan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_penyuluhan/index.php(44): Penyuluhan->getListMasterPenyuluhan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(72): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Penyuluhan.php on line 17
+[06-Jun-2024 11:02:12 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Pengguna.php:58
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#1 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 58
+[06-Jun-2024 11:02:13 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Penyuluhan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_penyuluhan/index.php(44): Penyuluhan->getListMasterPenyuluhan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(72): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Penyuluhan.php on line 17
+[06-Jun-2024 11:02:14 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Tindakan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_tindakan/index.php(46): Tindakan->getListMasterTindakan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(85): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Tindakan.php on line 17
+[06-Jun-2024 11:02:15 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Penyuluhan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_penyuluhan/index.php(44): Penyuluhan->getListMasterPenyuluhan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(72): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Penyuluhan.php on line 17
+[06-Jun-2024 11:02:15 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Pengguna.php:58
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#1 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 58
+[06-Jun-2024 11:02:22 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Pengguna.php:58
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#1 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 58
+[06-Jun-2024 11:02:22 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Penyuluhan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_penyuluhan/index.php(44): Penyuluhan->getListMasterPenyuluhan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(72): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Penyuluhan.php on line 17
+[06-Jun-2024 11:02:23 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Tindakan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_tindakan/index.php(46): Tindakan->getListMasterTindakan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(85): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Tindakan.php on line 17
+[06-Jun-2024 11:02:24 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Penyuluhan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_penyuluhan/index.php(44): Penyuluhan->getListMasterPenyuluhan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(72): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Penyuluhan.php on line 17
+[06-Jun-2024 11:02:25 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Pengguna.php:58
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#1 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 58
+[06-Jun-2024 11:05:27 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:05:35 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:05:36 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Penyuluhan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_penyuluhan/index.php(44): Penyuluhan->getListMasterPenyuluhan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(72): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Penyuluhan.php on line 17
+[06-Jun-2024 11:05:36 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Tindakan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_tindakan/index.php(46): Tindakan->getListMasterTindakan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(85): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Tindakan.php on line 17
+[06-Jun-2024 11:05:37 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Penyuluhan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_penyuluhan/index.php(44): Penyuluhan->getListMasterPenyuluhan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(72): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Penyuluhan.php on line 17
+[06-Jun-2024 11:05:38 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:05:54 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:05:56 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Penyuluhan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_penyuluhan/index.php(44): Penyuluhan->getListMasterPenyuluhan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(72): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Penyuluhan.php on line 17
+[06-Jun-2024 11:05:57 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Tindakan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_tindakan/index.php(46): Tindakan->getListMasterTindakan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(85): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Tindakan.php on line 17
+[06-Jun-2024 11:11:04 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Tindakan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_tindakan/index.php(46): Tindakan->getListMasterTindakan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(85): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Tindakan.php on line 17
+[06-Jun-2024 11:11:06 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:11:07 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Penyuluhan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_penyuluhan/index.php(44): Penyuluhan->getListMasterPenyuluhan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(72): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Penyuluhan.php on line 17
+[06-Jun-2024 11:11:08 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Tindakan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_tindakan/index.php(46): Tindakan->getListMasterTindakan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(85): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Tindakan.php on line 17
+[06-Jun-2024 11:11:09 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Penyuluhan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_penyuluhan/index.php(44): Penyuluhan->getListMasterPenyuluhan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(72): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Penyuluhan.php on line 17
+[06-Jun-2024 11:11:10 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:11:11 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Penyuluhan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_penyuluhan/index.php(44): Penyuluhan->getListMasterPenyuluhan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(72): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Penyuluhan.php on line 17
+[06-Jun-2024 11:12:23 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:12:25 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:12:27 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Penyuluhan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_penyuluhan/index.php(44): Penyuluhan->getListMasterPenyuluhan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(72): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Penyuluhan.php on line 17
+[06-Jun-2024 11:12:28 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:13:11 Asia/Bangkok] PHP Notice:  Undefined index: id_pengguna in /home/belaj828/public_html/sikadu/app/index.php on line 25
+[06-Jun-2024 11:13:21 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/belaj828/public_html/sikadu/class/Pengguna.php:57
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#1 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 57
+[06-Jun-2024 11:13:22 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Penyuluhan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_penyuluhan/index.php(44): Penyuluhan->getListMasterPenyuluhan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(72): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Penyuluhan.php on line 17
+[06-Jun-2024 11:13:23 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Tindakan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_tindakan/index.php(46): Tindakan->getListMasterTindakan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(85): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Tindakan.php on line 17
+[06-Jun-2024 11:13:24 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Penyuluhan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_penyuluhan/index.php(44): Penyuluhan->getListMasterPenyuluhan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(72): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Penyuluhan.php on line 17
+[06-Jun-2024 11:13:25 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/belaj828/public_html/sikadu/class/Pengguna.php:57
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#1 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 57
+[06-Jun-2024 11:13:28 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/belaj828/public_html/sikadu/class/Pengguna.php:57
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#1 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 57
+[06-Jun-2024 11:13:29 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Penyuluhan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_penyuluhan/index.php(44): Penyuluhan->getListMasterPenyuluhan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(72): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Penyuluhan.php on line 17
+[06-Jun-2024 11:13:29 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Tindakan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_tindakan/index.php(46): Tindakan->getListMasterTindakan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(85): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Tindakan.php on line 17
+[06-Jun-2024 11:13:30 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Penyuluhan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_penyuluhan/index.php(44): Penyuluhan->getListMasterPenyuluhan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(72): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Penyuluhan.php on line 17
+[06-Jun-2024 11:13:31 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/belaj828/public_html/sikadu/class/Pengguna.php:57
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#1 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 57
+[06-Jun-2024 11:13:42 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/belaj828/public_html/sikadu/class/Pengguna.php:57
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#1 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 57
+[06-Jun-2024 11:13:47 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Tindakan.php:17
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/master_tindakan/index.php(46): Tindakan->getListMasterTindakan()
+#1 /home/belaj828/public_html/sikadu/app/index.php(85): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Tindakan.php on line 17
+[06-Jun-2024 11:13:48 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/belaj828/public_html/sikadu/class/Pengguna.php:57
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#1 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 57
+[06-Jun-2024 11:14:55 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/index.php on line 25
+[06-Jun-2024 11:15:04 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:18:16 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:18:19 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:18:27 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:18:35 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:18:42 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:18:47 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 04:20:55 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 237
+[06-Jun-2024 04:20:57 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 237
+[06-Jun-2024 04:20:59 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 237
+[06-Jun-2024 04:21:01 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 237
+[06-Jun-2024 04:21:45 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 240
+[06-Jun-2024 04:21:49 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 240
+[06-Jun-2024 04:21:51 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 240
+[06-Jun-2024 04:21:52 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 240
+[06-Jun-2024 04:21:53 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 240
+[06-Jun-2024 04:21:53 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 240
+[06-Jun-2024 04:21:53 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 240
+[06-Jun-2024 04:21:53 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 240
+[06-Jun-2024 04:21:54 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 240
+[06-Jun-2024 04:21:54 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 240
+[06-Jun-2024 04:21:54 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 240
+[06-Jun-2024 04:21:54 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 240
+[06-Jun-2024 04:21:55 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 240
+[06-Jun-2024 04:21:55 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 240
+[06-Jun-2024 04:21:56 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "function" in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 240
+[06-Jun-2024 11:22:31 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:22:34 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:22:38 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:56
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(56): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 56
+[06-Jun-2024 11:24:50 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:55
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(55): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 55
+[06-Jun-2024 11:24:51 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:55
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(55): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 55
+[06-Jun-2024 11:24:57 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:55
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(55): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 55
+[06-Jun-2024 11:24:59 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:55
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(55): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 55
+[06-Jun-2024 11:25:15 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:55
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(55): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 55
+[06-Jun-2024 11:25:25 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:55
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(55): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 55
+[06-Jun-2024 11:31:09 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:55
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(55): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 55
+[06-Jun-2024 11:31:12 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:55
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(55): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 55
+[06-Jun-2024 11:31:15 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:55
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(55): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 55
+[06-Jun-2024 11:31:21 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:55
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(55): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 55
+[06-Jun-2024 11:31:50 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:55
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(55): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 55
+[06-Jun-2024 11:31:51 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:55
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(55): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 55
+[06-Jun-2024 11:33:46 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:33:48 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:33:50 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:33:56 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:33:58 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:35:55 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/belaj828/public_html/sikadu/class/Pengguna.php:57
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(57): mysqli_stmt->bind_result()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 57
+[06-Jun-2024 11:35:58 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/belaj828/public_html/sikadu/class/Pengguna.php:57
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(57): mysqli_stmt->bind_result()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 57
+[06-Jun-2024 11:37:43 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/belaj828/public_html/sikadu/class/Pengguna.php:57
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(57): mysqli_stmt->bind_result()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 57
+[06-Jun-2024 11:38:41 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:38:43 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:38:44 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:38:47 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:38:59 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:39:02 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:39:40 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:40:07 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:40:09 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(45): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:43:23 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(46): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:43:26 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(46): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:45:42 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(46): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:45:43 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(46): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:45:45 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(46): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:45:48 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(46): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:45:51 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(46): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:47:00 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/belaj828/public_html/sikadu/class/Pengguna.php:54
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(54): mysqli->prepare()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(48): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 11:49:23 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 53
+[06-Jun-2024 11:49:23 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 65
+[06-Jun-2024 11:49:23 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 66
+[06-Jun-2024 11:49:23 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 53
+[06-Jun-2024 11:49:23 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 65
+[06-Jun-2024 11:49:23 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 66
+[06-Jun-2024 11:49:23 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 53
+[06-Jun-2024 11:49:23 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 65
+[06-Jun-2024 11:49:23 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 66
+[06-Jun-2024 11:50:26 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 54
+[06-Jun-2024 11:50:26 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 11:50:26 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 58
+[06-Jun-2024 11:50:26 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 59
+[06-Jun-2024 11:50:26 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 54
+[06-Jun-2024 11:50:26 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 11:50:26 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 58
+[06-Jun-2024 11:50:26 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 59
+[06-Jun-2024 11:50:26 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 54
+[06-Jun-2024 11:50:26 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 11:50:26 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 58
+[06-Jun-2024 11:50:26 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 59
+[06-Jun-2024 11:50:28 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 54
+[06-Jun-2024 11:50:28 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 11:50:28 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 58
+[06-Jun-2024 11:50:28 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 59
+[06-Jun-2024 11:50:28 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 54
+[06-Jun-2024 11:50:28 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 11:50:28 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 58
+[06-Jun-2024 11:50:28 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 59
+[06-Jun-2024 11:50:28 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 54
+[06-Jun-2024 11:50:28 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 11:50:28 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 58
+[06-Jun-2024 11:50:28 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 59
+[06-Jun-2024 11:52:32 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 11:52:32 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 11:52:32 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 11:57:27 Asia/Bangkok] PHP Warning:  Undefined variable $level in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 65
+[06-Jun-2024 11:57:27 Asia/Bangkok] PHP Warning:  Undefined variable $level in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 65
+[06-Jun-2024 11:57:27 Asia/Bangkok] PHP Warning:  Undefined variable $level in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 65
+[06-Jun-2024 11:58:23 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/belaj828/public_html/sikadu/class/Pengguna.php:57
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(57): mysqli_stmt->bind_result()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(47): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 57
+[06-Jun-2024 12:28:33 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/index.php on line 25
+[06-Jun-2024 13:24:13 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 54
+[06-Jun-2024 13:24:13 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 13:24:13 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 58
+[06-Jun-2024 13:24:13 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 59
+[06-Jun-2024 13:24:13 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 54
+[06-Jun-2024 13:24:13 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 13:24:13 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 58
+[06-Jun-2024 13:24:13 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 59
+[06-Jun-2024 13:24:13 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 54
+[06-Jun-2024 13:24:13 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 13:24:13 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 58
+[06-Jun-2024 13:24:13 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 59
+[06-Jun-2024 13:24:21 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 54
+[06-Jun-2024 13:24:21 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 13:24:21 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 58
+[06-Jun-2024 13:24:21 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 59
+[06-Jun-2024 13:24:21 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 54
+[06-Jun-2024 13:24:21 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 13:24:21 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 58
+[06-Jun-2024 13:24:21 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 59
+[06-Jun-2024 13:24:21 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 54
+[06-Jun-2024 13:24:21 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 13:24:21 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 58
+[06-Jun-2024 13:24:21 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 59
+[06-Jun-2024 13:24:34 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 54
+[06-Jun-2024 13:24:34 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 13:24:34 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 58
+[06-Jun-2024 13:24:34 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 59
+[06-Jun-2024 13:24:34 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 54
+[06-Jun-2024 13:24:34 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 13:24:34 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 58
+[06-Jun-2024 13:24:34 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 59
+[06-Jun-2024 13:24:34 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 54
+[06-Jun-2024 13:24:34 Asia/Bangkok] PHP Warning:  Undefined array key "level" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 56
+[06-Jun-2024 13:24:34 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 58
+[06-Jun-2024 13:24:34 Asia/Bangkok] PHP Warning:  Undefined array key "id_pengguna" in /home/belaj828/public_html/sikadu/app/pengguna/index.php on line 59
+[06-Jun-2024 13:27:37 Asia/Bangkok] PHP Warning:  Undefined variable $level in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 70
+[06-Jun-2024 13:27:37 Asia/Bangkok] PHP Warning:  Undefined variable $level in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 70
+[06-Jun-2024 13:27:37 Asia/Bangkok] PHP Warning:  Undefined variable $level in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 70
+[06-Jun-2024 13:27:53 Asia/Bangkok] PHP Warning:  Undefined variable $level in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 70
+[06-Jun-2024 13:27:53 Asia/Bangkok] PHP Warning:  Undefined variable $level in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 70
+[06-Jun-2024 13:27:53 Asia/Bangkok] PHP Warning:  Undefined variable $level in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 70
+[06-Jun-2024 13:28:34 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/belaj828/public_html/sikadu/class/Pengguna.php:62
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(62): mysqli_stmt->bind_result()
+#1 /home/belaj828/public_html/sikadu/app/pengguna/index.php(47): Pengguna->getListUser()
+#2 /home/belaj828/public_html/sikadu/app/index.php(59): require_once('/home/belaj828/...')
+#3 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 62

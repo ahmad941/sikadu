@@ -1,0 +1,126 @@
+[06-Jun-2024 09:37:01 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/belaj828/public_html/sikadu/class/Koneksi.php:16
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Koneksi.php(16): mysqli_connect()
+#1 /home/belaj828/public_html/sikadu/auth/login.php(8): Koneksi->__construct()
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Koneksi.php on line 16
+[06-Jun-2024 09:37:04 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/belaj828/public_html/sikadu/class/Koneksi.php:16
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Koneksi.php(16): mysqli_connect()
+#1 /home/belaj828/public_html/sikadu/auth/login.php(8): Koneksi->__construct()
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Koneksi.php on line 16
+[06-Jun-2024 09:44:56 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/belaj828/public_html/sikadu/class/Koneksi.php:16
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Koneksi.php(16): mysqli_connect()
+#1 /home/belaj828/public_html/sikadu/auth/login.php(8): Koneksi->__construct()
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Koneksi.php on line 16
+[06-Jun-2024 09:44:59 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/belaj828/public_html/sikadu/class/Koneksi.php:16
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Koneksi.php(16): mysqli_connect()
+#1 /home/belaj828/public_html/sikadu/auth/login.php(8): Koneksi->__construct()
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Koneksi.php on line 16
+[06-Jun-2024 09:46:25 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/belaj828/public_html/sikadu/class/Koneksi.php:16
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Koneksi.php(16): mysqli_connect()
+#1 /home/belaj828/public_html/sikadu/auth/login.php(8): Koneksi->__construct()
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Koneksi.php on line 16
+[06-Jun-2024 09:46:28 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/belaj828/public_html/sikadu/class/Koneksi.php:16
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Koneksi.php(16): mysqli_connect()
+#1 /home/belaj828/public_html/sikadu/auth/login.php(8): Koneksi->__construct()
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Koneksi.php on line 16
+[06-Jun-2024 10:31:10 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/belaj828/public_html/sikadu/class/Koneksi.php:16
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Koneksi.php(16): mysqli_connect()
+#1 /home/belaj828/public_html/sikadu/auth/login.php(8): Koneksi->__construct()
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Koneksi.php on line 16
+[06-Jun-2024 10:35:29 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Pengguna.php:29
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/auth/login.php(19): Pengguna->Login()
+#1 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 29
+[06-Jun-2024 10:50:23 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Pengguna.php:29
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/auth/login.php(19): Pengguna->Login()
+#1 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 29
+[06-Jun-2024 10:54:19 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/belaj828/public_html/sikadu/class/Pengguna.php:29
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/auth/login.php(23): Pengguna->Login()
+#1 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 29
+[06-Jun-2024 11:02:05 Asia/Bangkok] PHP Warning:  Undefined variable $alert in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 49
+[06-Jun-2024 11:13:16 Asia/Bangkok] PHP Notice:  Undefined variable: alert in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 49
+[06-Jun-2024 11:15:00 Asia/Bangkok] PHP Warning:  Undefined variable $alert in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 49
+[06-Jun-2024 11:38:57 Asia/Bangkok] PHP Warning:  Undefined variable $alert in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 49
+[06-Jun-2024 11:39:25 Asia/Bangkok] PHP Warning:  Undefined variable $alert in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 49
+[06-Jun-2024 11:39:38 Asia/Bangkok] PHP Warning:  Undefined variable $alert in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 49
+[06-Jun-2024 12:00:05 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/belaj828/public_html/sikadu/class/Pengguna.php:32
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(32): mysqli_stmt->bind_result()
+#1 /home/belaj828/public_html/sikadu/auth/login.php(23): Pengguna->Login()
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 32
+[06-Jun-2024 12:01:26 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/belaj828/public_html/sikadu/class/Pengguna.php:32
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(32): mysqli_stmt->bind_result()
+#1 /home/belaj828/public_html/sikadu/auth/login.php(23): Pengguna->Login()
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 32
+[06-Jun-2024 12:01:36 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/belaj828/public_html/sikadu/class/Pengguna.php:32
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(32): mysqli_stmt->bind_result()
+#1 /home/belaj828/public_html/sikadu/auth/login.php(23): Pengguna->Login()
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 32
+[06-Jun-2024 12:02:53 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/belaj828/public_html/sikadu/class/Pengguna.php:32
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(32): mysqli_stmt->bind_result()
+#1 /home/belaj828/public_html/sikadu/auth/login.php(23): Pengguna->Login()
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 32
+[06-Jun-2024 12:02:56 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/belaj828/public_html/sikadu/class/Pengguna.php:32
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(32): mysqli_stmt->bind_result()
+#1 /home/belaj828/public_html/sikadu/auth/login.php(23): Pengguna->Login()
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 32
+[06-Jun-2024 12:03:02 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/belaj828/public_html/sikadu/class/Pengguna.php:32
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(32): mysqli_stmt->bind_result()
+#1 /home/belaj828/public_html/sikadu/auth/login.php(23): Pengguna->Login()
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 32
+[06-Jun-2024 12:08:23 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/belaj828/public_html/sikadu/class/Pengguna.php:32
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(32): mysqli_stmt->bind_result()
+#1 /home/belaj828/public_html/sikadu/auth/login.php(23): Pengguna->Login()
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 32
+[06-Jun-2024 12:09:02 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/belaj828/public_html/sikadu/class/Pengguna.php:32
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(32): mysqli_stmt->bind_result()
+#1 /home/belaj828/public_html/sikadu/auth/login.php(23): Pengguna->Login()
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 32
+[06-Jun-2024 12:09:54 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/belaj828/public_html/sikadu/class/Pengguna.php:32
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(32): mysqli_stmt->bind_result()
+#1 /home/belaj828/public_html/sikadu/auth/login.php(23): Pengguna->Login()
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 32
+[06-Jun-2024 13:22:50 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Number of bind variables doesn't match number of fields in prepared statement in /home/belaj828/public_html/sikadu/class/Pengguna.php:32
+Stack trace:
+#0 /home/belaj828/public_html/sikadu/class/Pengguna.php(32): mysqli_stmt->bind_result()
+#1 /home/belaj828/public_html/sikadu/auth/login.php(23): Pengguna->Login()
+#2 {main}
+  thrown in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 32
+[06-Jun-2024 13:24:07 Asia/Bangkok] PHP Warning:  Undefined variable $alert in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 13:24:10 Asia/Bangkok] PHP Warning:  Undefined variable $alert in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
+[06-Jun-2024 13:24:31 Asia/Bangkok] PHP Warning:  Undefined variable $alert in /home/belaj828/public_html/sikadu/class/Pengguna.php on line 54
